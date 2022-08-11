@@ -136,6 +136,8 @@ body{
 @media screen and (min-width: 1000px) {
 
     body{
+        background-image: url('images/bg-pattern-desktop.svg');
+        background-size: cover;
         grid-template-columns: 1fr 500px;
     }
 
